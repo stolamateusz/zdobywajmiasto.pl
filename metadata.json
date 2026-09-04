@@ -1,0 +1,8 @@
+{
+  "name": "ZdobywajMiasto.pl",
+  "description": "Przewodnik miejski nowej generacji: interaktywne trasy turystyczne, gry miejskie, kultura i rekomendacje lokalnych miejsc.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
